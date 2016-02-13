@@ -1,7 +1,7 @@
 ###定义:
 为创建一组相关或者相互依赖的对象提供一个接口，而不用指定它们具体的类.
 
-![uml]()
+![](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns%2Fabstractfactory%2Fuml.png)
 ###使用场景:
 * 一个系统独立于它的产品如何创建，组装和呈现
 * 一个系统应该被一种或者多种产品配置
