@@ -5,7 +5,7 @@
 * 你有多个独立的任务想要并行运行
 * 你需要改善一组串行任务的性能
 * 你限制了线程数量或者需要长时间运行某些任务，但不想要调用者一直等待直到任务完成
-
+![](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns%2Fasync-method-invocation%2Fasync_method_invocation.png)
 ###真实案例
 * [FutureTask](http://docs.oracle.com/javase/8/docs/api/java/util/concurrent/FutureTask.html), [CompletableFuture](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html), [ExecutorService](http://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ExecutorService.html)
 * [Task-based Asynchronous Pattern](https://msdn.microsoft.com/en-us/library/hh873175.aspx)(.NET)
