@@ -7,7 +7,7 @@
 |1|[abstract-factory](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns%2Fabstractfactory%2Findex.md)| Creational
 |2|[adapter](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns%2Fadapter%2Findex.md)| Structural
 |3|[async-method-invocation](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/async-method-invocation/index.md) | Concurrency
-|4|[bridge]()| Structural
+|4|[bridge](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns%2Fbridge%2Findex.md)| Structural
 
 ###创建型
 * [抽象工厂(abstract-factory)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns%2Fabstractfactory%2Findex.md)
