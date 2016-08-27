@@ -1,1 +1,1 @@
-include ':app', ':abstractfactory', ':adapter', ':async-method-invocation', ':bridge'
+include ':app', ':abstractfactory', ':adapter', ':async-method-invocation', ':bridge', ':observable'
