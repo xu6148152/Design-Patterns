@@ -17,6 +17,6 @@
 * [桥接模式(bridge)]()
 
 ###行为型
-
+* [观察者(Observer)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/observable/index.md)
 ###并发型
 * [异步方法(async-method-invocatino)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/async-method-invocation/index.md)
