@@ -14,8 +14,8 @@
 
 ###结构型
 * [适配器(adapter)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns%2Fadapter%2Findex.md)
-* [桥接模式(bridge)]()
-
+* [桥接模式(bridge)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/bridge/index.md)
+* [装饰者(decorator)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/decorate/index.md)
 ###行为型
 * [观察者(Observer)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/observable/index.md)
 ###并发型
