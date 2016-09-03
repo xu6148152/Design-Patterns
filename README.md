@@ -1,6 +1,7 @@
 # 设计模式
 设计模式
-[面向对象的六大原则](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis/)
+<!--[面向对象的六大原则](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis/)-->
+[面向对象原则]()
 
 <!--|#| Name | category |   -->
 <!--|--------| :------: | :------: |-->
