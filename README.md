@@ -19,10 +19,13 @@
 * [桥接模式(bridge)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/bridge/index.md)  
 * [装饰者(decorator)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/decorate/index.md)  
 * [模板方法(template method)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/templatemethod/index.md)
-
+* [代理模式(proxy)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/proxy/index.md)  
+* [组合模式(composite)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/composite/index.md)
 ###行为型  
 * [观察者(Observer)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/observable/index.md)  
-* [命令模式(Command)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/command/index.md)
+* [命令模式(Command)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/command/index.md)  
+* [迭代器(iterator)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/iterator/index.md)  
+* [状态模式(State)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/state/index.md)
 
 ###并发型
 * [异步方法(async-method-invocatino)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/async-method-invocation/index.md)
