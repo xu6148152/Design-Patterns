@@ -20,7 +20,8 @@
 * [装饰者(decorator)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/decorate/index.md)  
 * [模板方法(template method)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/templatemethod/index.md)
 * [代理模式(proxy)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/proxy/index.md)  
-* [组合模式(composite)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/composite/index.md)
+* [组合模式(composite)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/composite/index.md)  
+
 ###行为型  
 * [观察者(Observer)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/observable/index.md)  
 * [命令模式(Command)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/command/index.md)  
