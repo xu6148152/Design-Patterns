@@ -1,5 +1,5 @@
 ###定义：
-定义了算法族，分别封装起来，让它们之间可以互相替换，让算法的变化独立于使用算法的客户 
+为另一个对象提供一个替身或占位符以控制对这个对象的访问，远程代理，虚拟代理,动态代理 
 ![](./uml.png)
 ###应用场景：
 * a remote proxy provides a local representative for an object in a different address space.(远程代理)
