@@ -13,3 +13,4 @@
 
 ###真实例子
 * Object.clone
+* Intent
