@@ -1,1 +1,2 @@
-include ':app', ':abstractfactory', ':adapter', ':async-method-invocation', ':bridge', ':observable', ':decorate', ':factory', ':singleton', ':command', ':templatemethod', ':iterator', ':composite', ':state', ':strategy', ':proxy', ':builder', ':prototype'
+include ':app', ':abstractfactory', ':adapter', ':async-method-invocation', ':bridge', ':observable', ':decorate', ':factory', ':singleton',
+        ':command', ':templatemethod', ':iterator', ':composite', ':state', ':strategy', ':proxy', ':builder', ':prototype', ':chain'
