@@ -15,8 +15,7 @@ public class ThreadAsyncExecutor<T> implements AsyncExecutor<T> {
         return startProcess(task, null);
     }
 
-    @Override
-    public <T> AsyncResult<T> startProcess(Callable<T> task, AsyncCallback<T> callback) {
+    @Override public <T> AsyncResult<T> startProcess(Callable<T> task, AsyncCallback<T> callback) {
         //CompletableResult<T> result = new CompletableResult<>(callback);
         //new Thread(() -> {
         //    try {
@@ -29,8 +28,7 @@ public class ThreadAsyncExecutor<T> implements AsyncExecutor<T> {
         return null;
     }
 
-    @Override public <T> T endProcess(AsyncResult<T> asyncResult)
-            throws ExecutionException, InterruptedException {
+    @Override public <T> T endProcess(AsyncResult<T> asyncResult) throws ExecutionException, InterruptedException {
         if (asyncResult.isCompleted()) {
             return asyncResult.getValue();
         } else {
@@ -38,7 +36,6 @@ public class ThreadAsyncExecutor<T> implements AsyncExecutor<T> {
             return asyncResult.getValue();
         }
     }
-
 
     /**
      * Simple implementation of async result that allows completing it successfully with a value or exceptionally with an

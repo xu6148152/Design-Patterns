@@ -1,4 +1,6 @@
 include ':app', ':abstractfactory', ':adapter', ':async-method-invocation', ':bridge', ':observable', ':decorate', ':factory', ':singleton',
+        ':business-delegate',
+        ':aggregator-micorservices',
         ':abstract-document',
         ':facade',
         ':mediator',
