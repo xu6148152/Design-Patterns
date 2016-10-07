@@ -1,14 +1,5 @@
 package com.example;
 
-import java.sql.Connection;
-import java.sql.SQLException;
-import java.sql.Statement;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.logging.Logger;
-import java.util.stream.Stream;
-import javax.sql.DataSource;
-
 /**
  * Data Access Object (DAO) is an object that provides an abstract interface to some type of
  * database or other persistence mechanism. By mapping application calls to the persistence layer,
