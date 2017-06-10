@@ -10,11 +10,11 @@
 <!--|3|[async-method-invocation](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/async-method-invocation/index.md) | Concurrency-->
 <!--|4|[bridge](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns%2Fbridge%2Findex.md)| Structural-->
 
-###创建型
+### 创建型
 * [抽象工厂(abstract-factory)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns%2Fabstractfactory%2Findex.md)  
 * [单件模式(Singleton)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/singleton/index.md)
 
-###结构型
+### 结构型
 * [适配器(adapter)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns%2Fadapter%2Findex.md)  
 * [桥接模式(bridge)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/bridge/index.md)  
 * [装饰者(decorator)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/decorate/index.md)  
@@ -22,11 +22,11 @@
 * [代理模式(proxy)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/proxy/index.md)  
 * [组合模式(composite)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/composite/index.md)  
 
-###行为型  
+### 行为型  
 * [观察者(Observer)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/observable/index.md)  
 * [命令模式(Command)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/command/index.md)  
 * [迭代器(iterator)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/iterator/index.md)  
 * [状态模式(State)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/state/index.md)
 
-###并发型
+### 并发型
 * [异步方法(async-method-invocatino)](https://github.com/xu6148152/Design-Patterns/blob/master/DesignPatterns/async-method-invocation/index.md)
