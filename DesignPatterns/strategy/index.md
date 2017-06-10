@@ -1,7 +1,7 @@
 ### 定义：
 定义了算法族，分别封装起来，让它们之间可以互相替换，让算法的变化独立于使用算法的客户 
 ![](./uml.png)
-###应用场景：
+### 应用场景：
 * many related classes differ only in their behavior. Strategies provide a way to configure a class either one of many behaviors
 
 * you need different variants of an algorithm. for example, you might define algorithms reflecting different space/time trade-offs. 
