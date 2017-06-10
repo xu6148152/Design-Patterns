@@ -1,4 +1,4 @@
-###定义：
+### 定义：
 定义了算法族，分别封装起来，让它们之间可以互相替换，让算法的变化独立于使用算法的客户 
 ![](./uml.png)
 ###应用场景：
@@ -12,5 +12,5 @@
 * a class defines many behaviors, and these appear as multiple conditional statements in its operations. 
   Instead of many conditionals, move related conditional branches into their own Strategy class 
 
-###真实案例:
+### 真实案例:
 * Animator Interpolator
